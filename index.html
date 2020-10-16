@@ -87,7 +87,7 @@
 								<div class="tab-content p-4" id="v-pills-tabContent">
 
 									<div class="tab-pane fade show active" id="v-pills-1" role="tabpanel" aria-labelledby="v-pills-nextgen-tab">
-										<form action="#" >
+										<form>
 										
 											
 											<div class="row">
@@ -101,9 +101,9 @@
 													<div class="form-group">
 														<div class="form-field">
 															<div class="icon"><span class="icon-briefcase"></span></div>
-															<input type="search"
-															 name="q" 
-															 id="mySearch"
+															<input type="text"
+														
+															 id="formulario"
 															 class="form-control" placeholder='ej "Arquitecto"'>
 															
 														</div>
@@ -125,7 +125,14 @@
 											</div>
 										</form>
 									</div>
+									<script> 
+											const formulario = document.querySelector('#formulario');
+											const boton = document.querySelector('#boton')
+											const filtrar =()=>{
+												console.log(formulario.value)}
 
+											boton.addEventListener('click', filtrar)
+									</script>
 									
 								</div>
 							</div>
