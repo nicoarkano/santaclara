@@ -1,0 +1,46 @@
+---
+layout: none
+---
+[
+  
+    {
+      "title"    : "Roberto Gonzales",
+      "category" : "",
+      "tags"     : "tutorial, android, cvs, and github",
+      "url"      : "/tutorial-android-studio-control-de-versiones",
+      "date"     : "2015-10-12 15:00:20 +0000"
+    } ,
+  
+    {
+      "title"    : "Unity Scripts: Funciones por defecto y básicas.",
+      "category" : "",
+      "tags"     : "tutorial, unity, and script",
+      "url"      : "/unity-funciones-por-defecto",
+      "date"     : "2015-09-14 12:00:20 +0000"
+    } ,
+  
+    {
+      "title"    : "Unity Scripts: Detectar colisiones entre cuerpos con OnTriggerEnter2D",
+      "category" : "",
+      "tags"     : "tutorial, unity, and script",
+      "url"      : "/unity-colisiones-ontriggerenter2d",
+      "date"     : "2015-09-04 15:00:20 +0000"
+    } ,
+  
+    {
+      "title"    : "Añadir un buscador en nuestro Blog de Github pages",
+      "category" : "",
+      "tags"     : "tutorial, search, and github",
+      "url"      : "/searcher-github-pages",
+      "date"     : "2015-08-26 17:22:20 +0000"
+    } ,
+  
+    {
+      "title"    : "¿Cómo poner Bootstrap en tu nuevo Blog de Github pages?",
+      "category" : "",
+      "tags"     : "tutorial, bootstrap, and github",
+      "url"      : "/bootstrap-y-githubs-pages",
+      "date"     : "2015-08-24 13:16:20 +0000"
+    } 
+  
+]
